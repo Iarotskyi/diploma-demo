@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+}
+
+.title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 50px;
+  margin: 0;
+  color: #fff;
+  text-shadow: 1px 1px 5px #000;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background:
+    linear-gradient(90deg, #7E898F 0%, #636C75 100%),
+    radial-gradient(at top, rgba(255, 255, 255, 0.50) 0%, rgba(0, 0, 0, 0.55) 100%),
+    radial-gradient(at top, rgba(255, 255, 255, 0.50) 0%, rgba(0, 0, 0, 0.08) 63%);
+  background-blend-mode: multiply, screen;
+}
+
+.link {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 50vw;
+  height: 100vh;
+  cursor: pointer;
+}
+
+.link:hover {
+  background:
+    linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%),
+    radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);
+  background-blend-mode: screen;
+  transition: 0.3s all ease;
+}
+
+.link-img {
+  width: auto;
+  height: 250px;
+}
+
+.link-title {
+  text-align: center;
+  text-shadow: 1px 1px 5px #000;
+  color: #ffffff;
+  text-decoration: none;
+}
