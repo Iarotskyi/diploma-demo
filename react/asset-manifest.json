@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/diploma-demo/static/css/main.740973bb.chunk.css",
-    "main.js": "/diploma-demo/static/js/main.a44e00b9.chunk.js",
-    "main.js.map": "/diploma-demo/static/js/main.a44e00b9.chunk.js.map",
-    "runtime-main.js": "/diploma-demo/static/js/runtime-main.fbeebc78.js",
-    "runtime-main.js.map": "/diploma-demo/static/js/runtime-main.fbeebc78.js.map",
-    "static/js/2.0615c41d.chunk.js": "/diploma-demo/static/js/2.0615c41d.chunk.js",
-    "static/js/2.0615c41d.chunk.js.map": "/diploma-demo/static/js/2.0615c41d.chunk.js.map",
-    "index.html": "/diploma-demo/index.html",
-    "precache-manifest.3c136c9ecc90f238d05913720f6d8131.js": "/diploma-demo/precache-manifest.3c136c9ecc90f238d05913720f6d8131.js",
-    "service-worker.js": "/diploma-demo/service-worker.js",
-    "static/css/main.740973bb.chunk.css.map": "/diploma-demo/static/css/main.740973bb.chunk.css.map",
-    "static/js/2.0615c41d.chunk.js.LICENSE.txt": "/diploma-demo/static/js/2.0615c41d.chunk.js.LICENSE.txt"
+    "main.css": "/diploma-demo/react/static/css/main.740973bb.chunk.css",
+    "main.js": "/diploma-demo/react/static/js/main.bebd8d8e.chunk.js",
+    "main.js.map": "/diploma-demo/react/static/js/main.bebd8d8e.chunk.js.map",
+    "runtime-main.js": "/diploma-demo/react/static/js/runtime-main.1b9f527a.js",
+    "runtime-main.js.map": "/diploma-demo/react/static/js/runtime-main.1b9f527a.js.map",
+    "static/js/2.0615c41d.chunk.js": "/diploma-demo/react/static/js/2.0615c41d.chunk.js",
+    "static/js/2.0615c41d.chunk.js.map": "/diploma-demo/react/static/js/2.0615c41d.chunk.js.map",
+    "index.html": "/diploma-demo/react/index.html",
+    "precache-manifest.2363baba70c3f0c4a26edfbebe4e3852.js": "/diploma-demo/react/precache-manifest.2363baba70c3f0c4a26edfbebe4e3852.js",
+    "service-worker.js": "/diploma-demo/react/service-worker.js",
+    "static/css/main.740973bb.chunk.css.map": "/diploma-demo/react/static/css/main.740973bb.chunk.css.map",
+    "static/js/2.0615c41d.chunk.js.LICENSE.txt": "/diploma-demo/react/static/js/2.0615c41d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbeebc78.js",
+    "static/js/runtime-main.1b9f527a.js",
     "static/js/2.0615c41d.chunk.js",
     "static/css/main.740973bb.chunk.css",
-    "static/js/main.a44e00b9.chunk.js"
+    "static/js/main.bebd8d8e.chunk.js"
   ]
 }
